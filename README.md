@@ -8,21 +8,21 @@
 
 | 平台 | 文件 | 地址 |
 | --- | --- | --- |
-| Windows 便携版 | xpuzi-browser-portable-v0.1.0.zip | https://download.xpuzi.com/xpuzi-browser-portable-v0.1.0.zip |
-| Windows 安装版 | xpuzi-browser-setup-v0.1.0.exe | https://download.xpuzi.com/xpuzi-browser-setup-v0.1.0.exe |
+| Windows 便携版 | xpuzi-browser-portable-v0.1.2.zip | https://download.xpuzi.com/xpuzi-browser-portable-v0.1.2.zip |
+| Windows 安装版 | xpuzi-browser-0.1.2-setup.exe | https://download.xpuzi.com/update/xpuzi-browser-0.1.2-setup.exe |
 
 GitHub 备份：见 Releases 页面中的同名资产。
 
 ## 校验值（SHA256）
 
 ```
-ED6D4C14F01291434FDFE970EA0457FC00E74C5E768B4A321FAC9EC02436289B  xpuzi-browser-portable-v0.1.0.zip
-967DD1D8A3B2508441DB35A94F4297BD09A15CB5C906E574A8B01AB05C1CB95C  xpuzi-browser-setup-v0.1.0.exe
+BAB2926B3ECAD058C30625237848357180E2C6E68850333C4379F3D76C86570A  xpuzi-browser-portable-v0.1.2.zip
+C27162FC8FFD3AA83A5E1E8F83F6BD1EE266E780DD99F8C14C59A81BAEDE57EB  xpuzi-browser-0.1.2-setup.exe
 ```
 
 ## 版本信息
 
-- 版本：v0.1.0
+- 版本：v0.1.2
 - 浏览器内核：Chromium 159
 - 支持系统：Windows 10 / 11 64 位；macOS 10.15 及以上
 
